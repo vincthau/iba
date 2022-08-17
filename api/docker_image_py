@@ -4,4 +4,4 @@ ENV PYTHONUNBUFFERED=1
 RUN python -m pip install psycopg2-binary
 WORKDIR /app
 COPY . /app
-CMD ["python", "connect_to_postgresdb.py"]
+# CMD ["python", "connect_to_postgresdb.py"]

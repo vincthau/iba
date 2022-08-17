@@ -33,6 +33,7 @@ services:
       - mynetwork
   python:
     image: docker_image_python
+    tty: true
     container_name: python_container
     build:
       context: .
