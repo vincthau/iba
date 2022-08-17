@@ -1,0 +1,59 @@
+version: '3.4'
+
+services:
+  postgres:
+    image: postgres:12-alpine
+    container_name: postgres_container
+    restart: always
+    environment:
+      POSTGRES_USER: interviewee
+      POSTGRES_PASSWORD: wannasucceed
+      POSTGRES_DB: awesomeinc
+    volumes:
+      - ./data/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - data:/var/lib/postgresql/data
+    ports:
+      - ${POSTGRES_PORT:-5432}:5432
+    networks:
+      - mynetwork
+  pgadmin:
+    image: dpage/pgadmin4:6
+    container_name: pgadmin_container
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: interviewee@test.com
+      PGADMIN_DEFAULT_PASSWORD: wannasucceed
+    volumes:
+      - ./data/servers.json:/pgadmin4/servers.json
+    ports:
+      - ${PGADMIN_PORT:-8080}:80
+    depends_on:
+      - postgres
+    networks:
+      - mynetwork
+  python:
+    image: docker_image_python
+    container_name: python_container
+    build:
+      context: .
+      dockerfile: ./docker_image_py
+    depends_on:
+       - dbt
+    networks:
+      - mynetwork  
+  dbt:
+    image: docker_image_dbt
+    container_name: dbt_container
+    build:
+      context: .
+      dockerfile: ./docker_image_dbt
+    depends_on:
+       - postgres
+    networks:
+      - mynetwork
+networks:
+  mynetwork:
+    external: false
+    name: mynetwork
+volumes:
+  data: {}

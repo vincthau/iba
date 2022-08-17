@@ -1,0 +1,12 @@
+
+version: 2
+
+models:
+  - name: DimInstallation
+  - name: DimDate
+  - name: DimProduct
+  - name: DimCustomer
+  - name: FactInstallations
+  - name: Output1
+  - name: Output2
+  - name: Output3

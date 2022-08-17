@@ -1,0 +1,120 @@
+
+
+============================== 2022-08-17 12:10:25.068454 | cb325707-628b-4f5c-86f4-ee4785bdd815 ==============================
+[0m12:10:25.068454 [info ] [MainThread]: Running with dbt=1.2.0
+[0m12:10:25.069466 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Vincent\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': True, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m12:10:25.069466 [debug] [MainThread]: Tracking: tracking
+[0m12:10:25.083454 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B61DA13910>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B61DA13CA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B61DA13A60>]}
+[0m12:10:25.086453 [info ] [MainThread]: To view your profiles.yml file, run:
+
+start C:\Users\Vincent\.dbt
+[0m12:10:25.087454 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B61DA13CA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B61DA13A60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B61DA13BB0>]}
+
+
+============================== 2022-08-17 12:17:02.076959 | 93292db1-59a8-4d6b-a1dc-2d2303e04815 ==============================
+[0m12:17:02.076959 [info ] [MainThread]: Running with dbt=1.2.0
+[0m12:17:02.076959 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Vincent\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': True, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m12:17:02.077960 [debug] [MainThread]: Tracking: tracking
+[0m12:17:02.092022 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000189DB813970>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000189DB813D00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000189DB813AC0>]}
+[0m12:17:02.092022 [info ] [MainThread]: To view your profiles.yml file, run:
+
+start C:\Users\Vincent\.dbt
+[0m12:17:02.092959 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000189DB813D00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000189DB813AC0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000189DB813C10>]}
+
+
+============================== 2022-08-17 12:17:39.833109 | a8525865-1db0-4ff0-b27b-42bb158f1183 ==============================
+[0m12:17:39.833109 [info ] [MainThread]: Running with dbt=1.2.0
+[0m12:17:39.834108 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Vincent\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': True, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m12:17:39.834108 [debug] [MainThread]: Tracking: tracking
+[0m12:17:39.849109 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026D5F2DFEE0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026D5F2DFE20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026D5F31EAD0>]}
+[0m12:17:39.850134 [info ] [MainThread]: To view your profiles.yml file, run:
+
+start C:\Users\Vincent\.dbt
+[0m12:17:39.851125 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026D5F2DFE20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026D5F31EAD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026D5F31EC50>]}
+
+
+============================== 2022-08-17 12:26:16.353521 | 8b6f9051-64f5-442b-9de7-529d30885818 ==============================
+[0m12:26:16.353521 [info ] [MainThread]: Running with dbt=1.2.0
+[0m12:26:16.354522 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Vincent\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m12:26:16.354522 [debug] [MainThread]: Tracking: tracking
+[0m12:26:16.369544 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D3973FE50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D3973FF40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D39782A10>]}
+[0m12:26:16.426519 [debug] [MainThread]: Executing "git --help"
+[0m12:26:16.497519 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m12:26:16.498519 [debug] [MainThread]: STDERR: "b''"
+[0m12:26:16.500519 [debug] [MainThread]: Acquiring new postgres connection "debug"
+[0m12:26:16.500519 [debug] [MainThread]: Using postgres connection "debug"
+[0m12:26:16.500519 [debug] [MainThread]: On debug: select 1 as id
+[0m12:26:16.500519 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m12:26:18.768009 [debug] [MainThread]: Postgres adapter: Got a retryable error when attempting to open a postgres connection.
+1 attempts remaining. Retrying in 1 seconds.
+Error:
+could not translate host name "postgres" to address: Unknown host
+
+[0m12:26:22.053790 [debug] [MainThread]: Postgres adapter: Error running SQL: select 1 as id
+[0m12:26:22.053790 [debug] [MainThread]: Postgres adapter: Rolling back transaction.
+[0m12:26:22.054790 [debug] [MainThread]: On debug: No close available on handle
+[0m12:26:22.056790 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D39857A30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D398579D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022D39854880>]}
+[0m12:26:22.518363 [debug] [MainThread]: Connection 'debug' was properly closed.
+
+
+============================== 2022-08-17 12:27:39.647623 | 120a532e-cc69-4745-990a-bd1145b9eece ==============================
+[0m12:27:39.647623 [info ] [MainThread]: Running with dbt=1.2.0
+[0m12:27:39.648592 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Vincent\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m12:27:39.648592 [debug] [MainThread]: Tracking: tracking
+[0m12:27:39.662620 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023787A1EEF0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023787A5EBF0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023787A5F190>]}
+[0m12:27:39.734590 [debug] [MainThread]: Executing "git --help"
+[0m12:27:39.774592 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m12:27:39.774592 [debug] [MainThread]: STDERR: "b''"
+[0m12:27:39.777591 [debug] [MainThread]: Acquiring new postgres connection "debug"
+[0m12:27:39.777591 [debug] [MainThread]: Using postgres connection "debug"
+[0m12:27:39.777591 [debug] [MainThread]: On debug: select 1 as id
+[0m12:27:39.777591 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m12:27:42.053032 [debug] [MainThread]: Postgres adapter: Got a retryable error when attempting to open a postgres connection.
+1 attempts remaining. Retrying in 1 seconds.
+Error:
+could not translate host name "postgres" to address: Unknown host
+
+[0m12:27:45.338178 [debug] [MainThread]: Postgres adapter: Error running SQL: select 1 as id
+[0m12:27:45.338178 [debug] [MainThread]: Postgres adapter: Rolling back transaction.
+[0m12:27:45.339150 [debug] [MainThread]: On debug: No close available on handle
+[0m12:27:45.341158 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023787B46FE0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023787B462F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023787B45BD0>]}
+[0m12:27:45.910870 [debug] [MainThread]: Connection 'debug' was properly closed.
+
+
+============================== 2022-08-17 12:31:32.258295 | 26379459-eaad-4094-82b5-fd2dde2b7131 ==============================
+[0m12:31:32.258295 [info ] [MainThread]: Running with dbt=1.2.0
+[0m12:31:32.259296 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Vincent\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m12:31:32.259296 [debug] [MainThread]: Tracking: tracking
+[0m12:31:32.272296 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002221B93F9A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002221B93FE20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002221B982A70>]}
+[0m12:31:32.341296 [debug] [MainThread]: Executing "git --help"
+[0m12:31:32.380297 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m12:31:32.381297 [debug] [MainThread]: STDERR: "b''"
+[0m12:31:32.383296 [debug] [MainThread]: Acquiring new postgres connection "debug"
+[0m12:31:32.384297 [debug] [MainThread]: Using postgres connection "debug"
+[0m12:31:32.384297 [debug] [MainThread]: On debug: select 1 as id
+[0m12:31:32.384297 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m12:31:34.656377 [debug] [MainThread]: Postgres adapter: Got a retryable error when attempting to open a postgres connection.
+1 attempts remaining. Retrying in 1 seconds.
+Error:
+could not translate host name "postgres" to address: Unknown host
+
+[0m12:31:37.924606 [debug] [MainThread]: Postgres adapter: Error running SQL: select 1 as id
+[0m12:31:37.924606 [debug] [MainThread]: Postgres adapter: Rolling back transaction.
+[0m12:31:37.925648 [debug] [MainThread]: On debug: No close available on handle
+[0m12:31:37.927670 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002221BA6AFB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002221BA6A470>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002221BA6A350>]}
+[0m12:31:38.384486 [debug] [MainThread]: Connection 'debug' was properly closed.
+
+
+============================== 2022-08-17 12:39:00.467824 | 696394c0-3596-4324-9d97-c57348e94a26 ==============================
+[0m12:39:00.467824 [info ] [MainThread]: Running with dbt=1.2.0
+[0m12:39:00.468824 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Vincent\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m12:39:00.468824 [debug] [MainThread]: Tracking: tracking
+[0m12:39:00.482808 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002706260FBB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002706260FAF0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027062652AD0>]}
+[0m12:39:00.554793 [debug] [MainThread]: Executing "git --help"
+[0m12:39:00.595798 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m12:39:00.595798 [debug] [MainThread]: STDERR: "b''"
+[0m12:39:00.599794 [debug] [MainThread]: Acquiring new postgres connection "debug"
+[0m12:39:00.599794 [debug] [MainThread]: Using postgres connection "debug"
+[0m12:39:00.599794 [debug] [MainThread]: On debug: select 1 as id
+[0m12:39:00.599794 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m12:39:03.140188 [debug] [MainThread]: Connection 'debug' was properly closed.

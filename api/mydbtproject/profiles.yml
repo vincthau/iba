@@ -1,0 +1,12 @@
+mydbtprofile:
+  outputs:
+    dev:
+      type: postgres
+      threads: 1
+      host: postgres
+      port: 5432
+      user: interviewee
+      pass: wannasucceed
+      dbname: awesomeinc
+      schema: public
+  target: dev
