@@ -17,4 +17,4 @@ jobs:
     - name: Build the Docker image
       run: |
         cd api
-        docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+        docker build . --file docker_image_dbt --tag my-image-name:$(date +%s)
