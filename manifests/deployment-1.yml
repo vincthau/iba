@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "mykbcluster-ce67"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "mykbcluster-ce67"
+  template:
+    metadata:
+      labels:
+        app: "mykbcluster-ce67"
+    spec:
+      containers:
+        - name: "mykbcluster-ce67"
+          image: "mycontainerregistryvth.azurecr.io/mykbcluster"
+          ports:
+          - containerPort: 8080
