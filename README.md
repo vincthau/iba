@@ -1,3 +1,11 @@
+testing
+------
+docker-compose up --build -d
+docker container ls
+Question 1 response : docker exec -i python_container python get_data_from_db.py public.\"Output1\"
+Question 2 response : docker exec -i python_container python get_data_from_db.py public.\"Output2\"
+Question 3 response : docker exec -i python_container python get_data_from_db.py public.\"Output3\"
+
 Resume
 ------
 	1)Docker image provided by IBA  ,  postgressql db service with a database
